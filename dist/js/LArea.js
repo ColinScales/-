@@ -1,9 +1,11 @@
 /**
- * LArea移动端城市选择控件
+ * Area移动端城市选择控件
  * 
  * version:1.7.2
  * 
  * author:孙凯亮
+ *
+ * git:https://github.com/ColinScales/Area-plugin
  *
  * Copyright 2016
  * 
